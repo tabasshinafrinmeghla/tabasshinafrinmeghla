@@ -1,16 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Tabasshin Afrin Meghla</h1>
 <h3 align="center">web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
-
-
-
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabasshinafrinmeghla&label=Profile%20views&color=0e75b6&style=flat" alt="tabasshinafrinmeghla" /> </p>
 
